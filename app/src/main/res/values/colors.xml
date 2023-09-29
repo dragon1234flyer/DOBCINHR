@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <color name="black">#FF000000</color>
+    <color name="black">#0d1321</color>
     <color name="white">#FFFFFFFF</color>
     <color name="pink">#2a9d8f</color>
-    <color name="newbg">#9A4163</color>
     <color name="newbg1">#f0ead2</color>
     <color name="newbg2">#e76f51</color>
     <color name="GREY">#FFFBFE</color>
-    <color name="bg1">#ffb3c6</color>
-    <color name="newbg3">#ffafcc</color>
-    <color name="finalbg">#9F7BD1</color>
+    <color name="bg1">#bde0fe</color>
+    <color name="bg2">#538ABE</color>
     <color name="finalbtton">#5D4DA8</color>
-
+    <color name="btn">#219ebc</color>
+    <color name="view">#ccdbdc</color>
 </resources>

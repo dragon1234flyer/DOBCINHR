@@ -14,6 +14,7 @@
     <string name="zero">0</string>
     <string name="EQUAL">=</string>
     <string name="devide">/</string>
+    <string name="dot">.</string>
     <string name="mul">*</string>
     <string name="add">+</string>
     <string name="sub">-</string>

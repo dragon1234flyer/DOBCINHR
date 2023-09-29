@@ -3,7 +3,7 @@
     <style name="Base.Theme.CALCULATOR" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-        <item name="colorPrimary">@color/finalbtton</item>
+        <item name="colorPrimary">@color/bg2</item>
     </style>
 
     <style name="Theme.CALCULATOR" parent="Base.Theme.CALCULATOR" />
